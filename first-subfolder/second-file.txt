@@ -1,1 +1,2 @@
 Second file text
+THIS TEXT
